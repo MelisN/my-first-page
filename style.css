@@ -1,0 +1,40 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.screenshot{
+   max-width: 705px
+
+}
+
+body{padding: 80px;
+font-size: 17px;}
+
+
+img{
+height: auto;
+ max-width: 90%;
+}
+
+
+.description {
+max-width: 800px;
+  height: auto;
+    color:#7C8B88;
+
+}
+.title{ background-color: #33BEBE;
+color: white;
+font-family: monospace;
+    font-size: 35px;
+    padding: 30px 12px 0px 10px;
+    margin-bottom: 40px;
+
+ }
+
+.app {
+    display: flex;
+}
