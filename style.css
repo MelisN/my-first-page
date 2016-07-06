@@ -38,3 +38,9 @@ font-family: monospace;
 .app {
     display: flex;
 }
+
+footer { text-align: center;
+color: #7C8B88;
+margin: 45px;
+padding: 20px;
+}
